@@ -1,3 +1,4 @@
+package stacks;
 public class Stacks0x00 {
 	public static void main(String[] args) {
 		java.util.Stack<String> stack = new java.util.Stack<>();
